@@ -1,0 +1,34 @@
+/*
+*Wendy Mayo
+*Due Date
+*Project Name and Description
+*/
+
+/* The universal selector */
+*{
+}
+/* Body attributes here */
+body {
+    width:85%;
+    margin: auto;
+    background-color: skyblue;
+    font-family:fantasy;
+}
+
+/* h1 attributes here */
+h1 {
+    background-color: aquamarine;/* background color aquamarine */
+    color:aliceblue; /*text color aliceblue */
+}
+
+/* p attributes here */
+p {
+    color: blue;/* all paragraphs are blue */
+}
+
+#purpleText { /* use an id to change text to red */
+    color:purple;
+}
+.greenText { /*use thise to turn .... */
+    color:green;
+}
